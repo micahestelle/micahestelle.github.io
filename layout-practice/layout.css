@@ -5,6 +5,7 @@
 .main-container {
     width: 1000px;
     margin: 0 auto 0 auto;
+    font-family: 'Poiret One', cursive;
     
 }
 
@@ -47,7 +48,7 @@ header {
 
 .promo-message {
     width: 60%;
-    padding: 50px;     
+    padding: 50px;  
 }
 
 .product-feature, .product-buy-it-now {
@@ -75,7 +76,8 @@ header {
 }
 .product-info {
     text-align: right;
-    padding-left: 20px;    
+    padding-left: 20px;   
+    font-family: 'Francois One', sans-serif;
 }
 
 #product-reviews {
