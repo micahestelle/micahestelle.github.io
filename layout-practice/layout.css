@@ -9,6 +9,10 @@
     
 }
 
+a:hover {
+    color: hotpink;
+}
+
 .promo-container {
     background: #E6E6E6;
 }
