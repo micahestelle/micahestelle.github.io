@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+}
+
+.main-container {
+    width: 1000px;
+    margin: 0 auto 0 auto;
+    font-family: 'Poiret One', cursive;
+    
+}
+
+a:hover {
+    color: hotpink;
+}
+
+.promo-container {
+    background: #E6E6E6;
+}
+
+header {
+    display: flex;
+}
+
+.branding {
+    background-color: black;
+    width: 150px;
+    height: 45px;
+    margin-right: auto; 
+}
+
+
+.pill-button {
+    display: inline-flex;
+    background: gray;
+    padding: 4px;
+    border-radius: 3px;
+    color: white;
+    text-decoration: none; 
+}
+
+.promo {
+    background: white;
+    color: black;
+    font-size: 20px;
+}
+
+/* big promo */
+
+#big-promo {
+    padding-top: 200px;
+}
+
+.promo-message {
+    align-content: 
+    width: 60%;
+    padding: 50px;  
+}
+
+.product-feature, .product-buy-it-now {
+    display: flex;
+
+}
+
+.feature {
+    width: 4000px;
+    text-align: center;
+    padding: inherit;
+}
+
+.feature-image {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 0 auto;
+    overflow: hidden;
+}
+
+.product-buy-it-now {
+    allign-items: center;
+    
+}
+.product-info {
+    text-align: center;
+    padding-left: center  
+    font-family: 'Francois One', sans-serif;
+}
+
+#product-reviews {
+    background: #E6E6E6;
+    color: white;
+    text-align: center;
+    padding: -10px;
+    font-family: 'Francois One', sans-serif;
+
+}
